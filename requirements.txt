@@ -1,0 +1,4 @@
+flask
+python-dotenv
+newsapi-python
+newspaper3k
